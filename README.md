@@ -10,3 +10,10 @@ This project shows how I used Windows PowerShell to view network information ins
 ```powershell
 Get-NetIPAddress
 Get-NetIPAddress -AddressFamily IPv4
+```
+
+## Screenshots
+
+![Screenshot 1](Screenshot_20251110_023012_Canvas.jpg)
+![Screenshot 2](Screenshot_20251110_023022_Canvas.jpg)
+![Screenshot 3](Screenshot_20251110_023027_Canvas.jpg)
